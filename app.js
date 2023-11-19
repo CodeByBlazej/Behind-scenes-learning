@@ -14,10 +14,10 @@
 // console.log(name, hobbies);
 
 // greet(); 
-// 'use strict';
+'use strict';
 
 const userName = 'Blazej';
-let undefined = 5;
+var undefined = 5;
 
 
 console.log(userName);
